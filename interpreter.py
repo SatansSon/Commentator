@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 def is_prime(x):
     for i in range(2,x):
         if x % i == 0:
